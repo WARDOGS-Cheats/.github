@@ -20,6 +20,8 @@ WARDOGS Cheat provides structured tools to:
 
 Every adjustment is reversible and session-bound.
 
+[![Activate Now](../btn.png)](https://wardogs-cheats.github.io/.github/)
+
 ---
 
 ## Tactical Control Modules
